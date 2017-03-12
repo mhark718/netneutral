@@ -1,0 +1,44 @@
+GET / HTTP/1.1
+Upgrade-Insecure-Requests: 1
+Save-Data: on
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G860P Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Host: 47.138.250.97
+Connection: keep-alive
+
+GET /favicon.ico HTTP/1.1
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G860P Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36
+Save-Data: on
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://47.138.250.97/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Host: 47.138.250.97
+Connection: keep-alive
+
+GET / HTTP/1.1
+Upgrade-Insecure-Requests: 1
+Save-Data: on
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G860P Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Host: 47.138.250.97
+Connection: keep-alive
+
+GET /favicon.ico HTTP/1.1
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G860P Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36
+Save-Data: on
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://47.138.250.97/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Host: 47.138.250.97
+Connection: keep-alive
+
